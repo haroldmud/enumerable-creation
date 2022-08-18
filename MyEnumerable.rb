@@ -12,4 +12,8 @@ module MyEnumerable
   end
 
   def filter?
+    filtered = []
+    each { |n| arr.push(x) if yield(x) }
+    filtered
+  end  
 end
