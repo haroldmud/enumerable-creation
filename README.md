@@ -1,13 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Create our own enumerable
 
-> Description the project
+> For this project we created a class MyList and a module MyEnumerable. Our module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 
 ## Built With
 
-- Major languages
+- RUBY
 - Frameworks
 - Technologies used
 
@@ -42,13 +42,13 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@haroldmud](https://github.com/haroldmud)
+- Twitter: [@mudosaarnold](https://twitter.com/mudosaarnold)
+- LinkedIn: [haroldmudosa](https://haroldmudosa.com/in/linkedinhandle)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@abdulali3468](https://github.com/abdulali3468)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
