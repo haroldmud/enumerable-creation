@@ -1,4 +1,4 @@
-module MY_ENUMERABLE
+module MyEnumerable
   def all?
     return true unless block_given?
 

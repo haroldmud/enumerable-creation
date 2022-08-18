@@ -32,6 +32,10 @@ Style/DefWithParentheses:
   Enabled: false
 Style/FrozenStringLiteralComment:
   EnforcedStyle: never
+Naming/ClassAndModuleCamelCase:
+  Enabled: false
+Naming/FileName:
+  Enabled: false
 
 Layout/HashAlignment:
   EnforcedColonStyle: key
