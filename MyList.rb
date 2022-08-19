@@ -11,7 +11,7 @@ class MyList
   end
 end
 
-list = new.Mylist(1, 2, 3, 4, 5)
+list = Mylist(1, 2, 3, 4, 5).new
 
 puts(list.all? { |e| e < 5 })
 puts(list.all? { |e| e > 5 })
